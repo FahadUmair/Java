@@ -8,7 +8,7 @@ import static java.awt.Color.*;  // for Color constants
 
 /** This class ...
   *
-  * @author <your name>
+  * Fahad
   * 
   * @version 1.0 (<date>)                                                        */
 
