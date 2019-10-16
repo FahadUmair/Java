@@ -29,12 +29,12 @@ public class Chromakey {
       
       display= new PictureDisplayer();
       
-      background=new Picture(640,480);
+      background=new Picture();
       display.placePicture(background);
       display.waitForUser();
       
       
-      foreground=new Picture(640,480);
+      foreground=new Picture();
       display.placePicture(foreground);
       display.waitForUser();
       
