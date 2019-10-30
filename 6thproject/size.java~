@@ -1,0 +1,39 @@
+package Lab_6_1;
+
+
+import Media.*;                  // for Picture and PictureDisplayer
+import java.awt.*;               // for Color objects and methods
+import static java.lang.Math.*;  // for math constants and functions
+import static java.awt.Color.*;  // for Color constants
+
+
+/** This class ...
+  *
+  * @author <your name>
+  * @version 1.0 (<date>)                                                        */
+
+public class size {
+    
+    
+    // instance variables
+    
+    
+    /** This constructor ...                                                     */
+    
+    public size ( ) {
+
+        // local variables
+        
+        // statements including call to method
+        
+    }; // constructor
+    
+    
+    // methods
+
+    
+    
+    public static void main ( String[] args ) { size s = new size(); };
+    
+    
+} // <className>
