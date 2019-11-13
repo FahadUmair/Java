@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20190813-220051">
+  <project autorefresh="false" build="" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="ColorPicker.java" package="Lab_8_1" timestamp="13-Nov-2019 15:41:45">
+        <select from="654" to="654"/>
+        <scroll column="308" row="0"/>
+      </file>
+      <file name="Inventory.java" package="Lab_8_1" timestamp="13-Nov-2019 15:01:34">
+        <select from="654" to="654"/>
+        <scroll column="308" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
