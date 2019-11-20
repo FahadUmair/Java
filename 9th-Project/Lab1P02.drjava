@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20190813-220051">
+  <project autorefresh="false" build="" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Item.java" package="Lab_9_1" timestamp="20-Nov-2019 15:37:15">
+        <select from="691" to="691"/>
+        <scroll column="534" row="0"/>
+      </file>
+      <file name="Inventory.java" package="Lab_9_1" timestamp="20-Nov-2019 15:54:59">
+        <select from="691" to="691"/>
+        <scroll column="534" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

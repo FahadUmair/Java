@@ -1,0 +1,21 @@
+//have imports here
+
+public class Item{
+
+
+
+  private String itemNum;
+  private int reorder;
+  private int quantity;
+  
+
+  public String getItemNum(){
+  
+  return itemNum;
+  }
+
+  //getReorder()
+  //getQuantity()
+  
+  
+}
