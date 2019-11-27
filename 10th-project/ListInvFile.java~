@@ -1,0 +1,39 @@
+package Lab_10_1;
+
+
+import BasicIO.*;                // for IO classes
+import static BasicIO.Formats.*; // for field formats
+import static java.lang.Math.*;  // for math constants and functions
+
+
+/** This class ...
+  *
+  * @author <your name>
+  * @version 1.0 (<date>)                                                        */
+
+public class ListInvFile {
+    
+    
+   private BinaryDataFile invData;//reads from .bin file
+   private ASCIIDisplayer display;//outputs what we read from the . bin file on screen
+   
+    
+    /** This constructor ...                                                     */
+    
+    public ListInvFile ( ) {
+
+        // local variables
+        
+        // statements
+        
+    }; // constructor
+    
+    
+    // methods
+
+    
+    // For main classes only:
+    public static void main ( String[] args ) { ListInvFile c = new ListInvFile(); };
+    
+    
+} // <className>
